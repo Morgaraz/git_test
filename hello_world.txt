@@ -1,2 +1,3 @@
 Hello World
 I'm the first txt file on git from me.
+Let's get Git to commit automaticaly to GitHub.
